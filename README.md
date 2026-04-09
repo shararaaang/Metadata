@@ -182,4 +182,12 @@ Reverse image search will let us know:
 
 Links: https://www.google.com/imghp?hl=EN
 
-Just insert or drag the photo that have saved and click the search button. It will show the results
+Just insert or drag the photo that have saved and click the search button.
+
+Findings:
+- Image found on multiple websites
+- Possible source identified
+- Related images discovered
+
+
+
