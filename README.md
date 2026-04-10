@@ -160,7 +160,7 @@ samsung.com
 The result will show up all the details.
 
 
-## 8️⃣ Tools: Pentest Tools
+## 9️⃣ Tools: Pentest Tools
 Pentest Tools is a cloud-based platform that provides an all-in-one toolkit for penetration testing and vulnerability assessment
 
 Links: https://pentest-tools.com/
@@ -190,4 +190,42 @@ Findings:
 - Related images discovered
 
 
+## Metadata
+Based on this tables, use the links to open the source and run the commands on kali linux to get the result of the photo given.
 
+|   Tools              |  Command                 | Links                                    |
+| --------             | --------                 | --------------                           |
+| exiftool             | exiftool ocean.jpg       |https://exif.tools/                       |
+| hexeditor            | hexeditor computer.jpg   |https://hexed.it/                         |
+| binwalk              | binwalk dog.jpg          |                                          |
+| binwalk              | binwalk -e dog.jpg       |                                          |
+| binwalk              | cd _dog.jpg.extracted/   |                                          |
+| strings              | strings computer.jpg     |https://www.dcode.fr/strings-extractor    |
+| file (check fie)     | Cell 2                   |file solitaire.exe                        |
+| file (check file)    | Cell 4                   |file rubiks.jpg                           |
+
+
+## 🔟 Tools: Wayback Machine
+Wayback Machine is used to view archived versions of web pages across time
+
+Links: https://archive.org/ and https://pastebin.com/j1UnKA7m
+
+In search engine insert domain name:
+```
+samsung.com
+```
+The result will show up all the details.
+
+
+## 11 Tools: Whatsmyname
+Whatsmyname is an OSINT tool designed for enumerating usernames across a wide array of websites
+
+Links: https://whatsmyname.app/
+
+In search engine insert domain name:
+```
+samsung.com
+```
+The result will show up all the details.
+
+ 
